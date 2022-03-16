@@ -7,7 +7,8 @@ export default styled.div`
 
   .cell {
     box-sizing: border-box;
-    border: 1px solid black;
+    border: 2px solid black;
+    border-radius: 5px;
     height: 100px;
     width: 100px;
 
